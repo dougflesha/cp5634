@@ -1,2 +1,3 @@
 # Student_performance
-A mini project of secondary school student performance
+
+The dataset is drawn from [here](http://archive.ics.uci.edu/ml/datasets/Student+Performance).
